@@ -21,7 +21,8 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### values,Vectors=np.linalg.eig(a)
 ### print("Eigen values are {} and Eigen Vectors are {}".format(values,Vectors))
 
-## Output: ![Uploading image.png…]()
+## Output:![Uploading Screenshot 2026-10-13 113506.png…]()
+
 
 
 
