@@ -23,8 +23,5 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Output:![Uploading Screenshot 2026-10-13 113506.png…]()
 
-
-
-
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
